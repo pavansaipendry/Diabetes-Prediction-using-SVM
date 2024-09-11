@@ -1,4 +1,4 @@
-# Diabetes-Prediction-using-SVM
+# Diabetes Prediction using SVM
 This project uses a Support Vector Machine (SVM) to predict whether a person has diabetes based on various health indicators. The data is preprocessed, split into training and testing sets, and used to train the SVM model, which is then evaluated for accuracy.
 
 To run this project, you need Python installed along with the required libraries. You can install the dependencies using:
